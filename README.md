@@ -2,6 +2,12 @@
 
 This is a new radar dataset that contains 50k of radar scans collected using TI AWR1843BOOST in Pittsburgh, PA, USA. The dataset includes paired RGB camera data with each radar sample.
 
+![Drag Racing](radar_sample.png)
+
+## News
+
+- [March 2023] We release the first version of 5k frames of our dataset at the [link]() in the resolution of 128 samples in range. Other parts of the dataset will be released later. Stay tuned.
+
 ## Dataset Details
 The dataset contains the following details:
 
