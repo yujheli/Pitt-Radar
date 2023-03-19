@@ -33,7 +33,7 @@ If you use this dataset in your research, please cite our paper:
 ```
 @inproceedings{li2023pittradar,
   title={Azimuth Super-Resolution for FMCW Radar in Autonomous Driving},
-  author={Li, Yu-Jhe and Hunt, Shawn and Kitani, Kris M},
+  author={Li, Yu-Jhe and Hunt, Shawn and Park, Jinhyung and O'Toole, Matthew and Kitani, Kris M},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2023}
 }
