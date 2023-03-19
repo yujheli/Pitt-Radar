@@ -6,7 +6,7 @@ This is a new radar dataset that contains 50k of radar scans collected using TI 
 
 ## News
 
-- [March 2023] We release the first version of 5k frames of our dataset at the [link]() in the resolution of 128 samples in range. Other parts of the dataset will be released later. Stay tuned.
+- [March 2023] We release the first version of 5k frames of our dataset at the [link](https://drive.google.com/drive/folders/1v2w7F-DQBNCthbl0z_h-EbTZfK8A0IgB?usp=share_link) in the resolution of 128 samples in range. Other parts of the dataset will be released later. Stay tuned.
 
 ## Dataset Details
 The dataset contains the following details:
